@@ -1,7 +1,6 @@
 # Vanilla
 
-This is a **work-in-progress** software clone of the Wii U gamepad. No warranty is provided and everything should be considered **alpha** at best.
-
+whats the build with motion
 <p align="center">
     <img src="https://raw.githubusercontent.com/vanilla-wiiu/vanilla/master/images/screenshot1.png">
     <br>
